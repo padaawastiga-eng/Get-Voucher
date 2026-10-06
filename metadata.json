@@ -1,0 +1,6 @@
+{
+  "name": "Pengundian Digital Nomor Otomatis",
+  "description": "Aplikasi pengundian nomor acak digital profesional untuk doorprize, undian kupon, dan acara panggung dengan tampilan layar penuh dan proyektor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
